@@ -1,0 +1,12 @@
+Minta mahasiswa menulis exit ticket:
+
+1. Lapisan mana yang paling saya pahami?
+Lapisan yang paling saya pahami adalah data dan BI. Menurut saya, data menjadi dasar dari sebuah sistem karena berisi fakta atau informasi yang akan diolah. Sementara itu, BI membantu menampilkan dan menjelaskan kondisi yang terjadi berdasarkan data tersebut.
+2. Lapisan mana yang masih saya campuradukkan?
+Lapisan yang masih saya campuradukkan adalah ML dan LLM. Saya masih perlu memahami lebih dalam perbedaannya, terutama karena ML digunakan untuk mempelajari pola dan membuat prediksi, sedangkan LLM lebih berperan dalam mengolah serta menyampaikan informasi dalam bentuk bahasa yang mudah dipahami.
+3. Bukti apa yang membuat sebuah sistem layak disebut “cerdas” dan bertanggung jawab?
+Menurut saya, sebuah sistem layak disebut cerdas dan bertanggung jawab jika hasil yang diberikan berdasarkan data yang jelas, prosesnya dapat ditelusuri, dan hasilnya dapat diperiksa kembali. Selain itu, keputusan akhir tetap perlu melibatkan manusia agar risiko kesalahan dapat dikurangi.
+
+
+Tutup dengan pengantar: minggu depan mahasiswa tidak langsung memilih algoritma; mereka belajar
+mengubah dataset menjadi masalah yang sah dan terukur.
