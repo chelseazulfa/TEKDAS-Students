@@ -1,0 +1,17 @@
+TABEL DEFINISI EMPAT INDIKATOR
+
+1. Total Penjualan
+   Definisi: Jumlah nilai sales pada seluruh periode dan gerai terpilih.
+   Rumus: Σ sales, dengan sales = transaction_qty × unit_price.
+
+2. Jumlah Transaksi Tercatat
+   Definisi: Jumlah transaction_id unik dalam cakupan filter yang sama.
+   Rumus: COUNT DISTINCT transaction_id.
+
+3. Rata-rata Nilai Transaksi
+   Definisi: Rata-rata nilai transaksi tercatat dalam cakupan filter yang sama.
+   Rumus: Total Penjualan ÷ Jumlah Transaksi Tercatat.
+
+4. Pertumbuhan Bulan Terakhir
+   Definisi: Perubahan penjualan bulan terakhir dibanding bulan sebelumnya pada gerai yang sama.
+   Rumus: ((Penjualan bulan terakhir - Penjualan bulan sebelumnya) ÷ Penjualan bulan sebelumnya) × 100%.

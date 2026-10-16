@@ -1,0 +1,13 @@
+INSIGHT PRAKTIKUM BI
+
+Periode dan filter:
+Januari-Juni 2023, seluruh gerai dipilih (Astoria, Hell's Kitchen, dan Lower Manhattan).
+
+Observasi dan bukti angka:
+Penjualan Juni meningkat 6.23% dibandingkan Mei, dari 156,727.76 menjadi 166,485.88. Jumlah transaksi tercatat meningkat dari 33,527 menjadi 35,352. Rata-rata nilai transaksi tercatat meningkat dari 4.67 menjadi 4.71.
+
+Batasan:
+Dataset menunjukkan perubahan yang terjadi, tetapi tidak menjelaskan penyebab kenaikan. Dataset juga tidak menyediakan informasi promosi, biaya, antrean, atau identitas pelanggan.
+
+Tindakan pemeriksaan:
+Lakukan pemeriksaan lanjutan terhadap kontribusi gerai dan kategori produk untuk mengetahui bagian data mana yang paling banyak berkontribusi pada perubahan penjualan Juni.
